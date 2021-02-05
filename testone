@@ -1,4 +1,11 @@
 This is just a branch test.
 This is change number one.
+<<<<<<< HEAD
 
 This is change number three. on main, no merge.
+=======
+This is branch number two, will not be merged.
+
+This is change number four. no merge.
+bla bla 
+>>>>>>> secondbranch
